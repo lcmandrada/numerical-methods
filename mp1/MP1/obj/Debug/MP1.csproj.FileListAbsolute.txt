@@ -1,0 +1,15 @@
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Debug\MP1.exe.config
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Debug\MP1.exe
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Debug\MP1.pdb
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.csprojResolveAssemblyReference.cache
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.frmMain.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.Properties.Resources.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.csproj.GenerateResource.Cache
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.exe
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Debug\MP1.pdb
+L:\Documents\Visual Studio 2013\Projects\MP1\MP1\obj\Debug\MP1.frmRegula.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Debug\info.lundin.math.dll
+L:\Documents\Visual Studio 2013\Projects\MP1\MP1\bin\Debug\MP1.exe.manifest
+L:\Documents\Visual Studio 2013\Projects\MP1\MP1\bin\Debug\MP1.application
+L:\Documents\Visual Studio 2013\Projects\MP1\MP1\obj\Debug\MP1.exe.manifest
+L:\Documents\Visual Studio 2013\Projects\MP1\MP1\obj\Debug\MP1.application

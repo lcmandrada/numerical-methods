@@ -1,0 +1,12 @@
+l:\documents\visual studio 2013\Projects\MP3\MP3\bin\Debug\MP3.exe.config
+l:\documents\visual studio 2013\Projects\MP3\MP3\bin\Debug\MP3.exe
+l:\documents\visual studio 2013\Projects\MP3\MP3\bin\Debug\MP3.pdb
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.frmMain.resources
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.frmMuller.resources
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.Properties.Resources.resources
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.csproj.GenerateResource.Cache
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.exe
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.pdb
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.frmCholesky.resources
+l:\documents\visual studio 2013\Projects\MP3\MP3\obj\Debug\MP3.frmGaussJacobi.resources

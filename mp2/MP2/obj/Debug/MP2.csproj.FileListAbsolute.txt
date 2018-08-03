@@ -1,0 +1,11 @@
+l:\documents\visual studio 2013\Projects\MP2\MP2\bin\Debug\MP2.exe.config
+l:\documents\visual studio 2013\Projects\MP2\MP2\bin\Debug\MP2.exe
+l:\documents\visual studio 2013\Projects\MP2\MP2\bin\Debug\MP2.pdb
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.csprojResolveAssemblyReference.cache
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.frmMain.resources
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.frmSecant.resources
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.Properties.Resources.resources
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.csproj.GenerateResource.Cache
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.exe
+l:\documents\visual studio 2013\Projects\MP2\MP2\obj\Debug\MP2.pdb
+l:\documents\visual studio 2013\Projects\MP2\MP2\bin\Debug\info.lundin.math.dll

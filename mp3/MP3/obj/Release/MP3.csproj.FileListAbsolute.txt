@@ -1,0 +1,12 @@
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\bin\Release\MP3.exe.config
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\bin\Release\MP3.exe
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\bin\Release\MP3.pdb
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.frmMain.resources
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.frmMuller.resources
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.frmCholesky.resources
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.frmGaussJacobi.resources
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.Properties.Resources.resources
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.csproj.GenerateResource.Cache
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.exe
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.pdb
+L:\Documents\Visual Studio 2013\Projects\MP3\MP3\obj\Release\MP3.csprojResolveAssemblyReference.cache

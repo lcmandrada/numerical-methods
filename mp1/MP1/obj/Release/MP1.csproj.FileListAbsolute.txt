@@ -1,0 +1,17 @@
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\MP1.exe.config
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\MP1.exe.manifest
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\MP1.application
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\MP1.exe
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\MP1.pdb
+l:\documents\visual studio 2013\Projects\MP1\MP1\bin\Release\info.lundin.math.dll
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.frmMain.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.frmRegula.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.Properties.Resources.resources
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.csproj.GenerateResource.Cache
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.exe.manifest
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.application
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.exe
+l:\documents\visual studio 2013\Projects\MP1\MP1\obj\Release\MP1.pdb
+F:\project\numerical methods\machine problem\ \mp1\MP1\bin\Release\MP1.exe.config
+F:\project\numerical methods\machine problem\ \mp1\MP1\obj\Release\MP1.exe
+F:\project\numerical methods\machine problem\ \mp1\MP1\obj\Release\MP1.pdb

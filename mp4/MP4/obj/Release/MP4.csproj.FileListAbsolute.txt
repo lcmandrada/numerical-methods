@@ -1,0 +1,14 @@
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\bin\Release\MP4.exe.config
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\bin\Release\MP4.exe
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\bin\Release\MP4.pdb
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\bin\Release\info.lundin.math.dll
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.csprojResolveAssemblyReference.cache
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.frmMain.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.frmLinear.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.frmNewton.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.frmTrapezoidal.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.frmCenter.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.Properties.Resources.resources
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.csproj.GenerateResource.Cache
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.exe
+L:\Documents\Visual Studio 2013\Projects\MP4\MP4\obj\Release\MP4.pdb
